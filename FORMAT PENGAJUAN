@@ -29,3 +29,23 @@ Example untuk PERGANTIAN/KERUSAKAN:
 3. John Admin DO
 4. Ganti pita printer lx310 
 5. 1
+
+FORMAT REPLAY:
+1. STATUS ISSUE [Required]  
+2. Keterangan 
+
+LIST STATUS ISSUE:
+1. ON GOING
+2. DONE
+3. HOLD [ Keterangan harus di isi ]
+4. CANCEL [ Keterangan harus di isi ]
+
+Example untuk REPLAY [ ON GOING ]:
+1. ON GOING
+2. -
+
+Example untuk REPLAY [ HOLD ]:
+1. HOLD
+2. Percetakan tidak buka untuk hari libur
+
+
